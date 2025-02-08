@@ -24,7 +24,7 @@ export const googleProvider = new GoogleAuthProvider();
 googleProvider.addScope('https://www.googleapis.com/auth/userinfo.email');
 googleProvider.addScope('https://www.googleapis.com/auth/userinfo.profile');
 
-// Optional: Add custom parameters for better UX
+
 googleProvider.setCustomParameters({
   prompt: 'select_account'
 });
