@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Travel Planning Suite
+# 🌍 TravelXP.ai : The AI-Powered Travel Planning Suite
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://react.dev/)
 [![Google Maps API](https://img.shields.io/badge/Google_Maps_API-v3.55-red)](https://developers.google.com/maps)
