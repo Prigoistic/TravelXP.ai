@@ -1,5 +1,6 @@
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaXTwitter } from 'react-icons/fa6';
 import { Link } from 'react-router-dom';
+
 
 const Footer = () => {
     const scrollToSection = (sectionId) => {
@@ -38,10 +39,11 @@ const Footer = () => {
                             <FaLinkedin />
                         </a>
                         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                            <FaTwitter />
+                            <FaXTwitter />
                         </a>
                     </div>
                 </div>
+
             </div>
             <div className="footer-bottom">
                 <p>&copy; 2024 TravelXP. All rights reserved.</p>
