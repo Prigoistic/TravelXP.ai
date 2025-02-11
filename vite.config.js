@@ -11,7 +11,8 @@ export default defineConfig({
         'firebase/auth',
         'firebase/app',
         'firebase/firestore',
-        'firebase/storage'
+        'firebase/storage',
+        'react-icons/fa'
       ]
     }
   },
