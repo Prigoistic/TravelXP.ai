@@ -20,25 +20,25 @@ const CreateTrip = () => {
 
       <div className="list">
         <div className="list-item">
-          <img src= '/image1.jpg' alt="list-item" />
+          <img src= '/public/image1.jpg' alt="list-item" />
         </div>
         <div className="list-item">
-          <img src= '/image2.jpg' alt="list-item" />
+          <img src= '/public/image2.jpg' alt="list-item" />
         </div>
         <div className="list-item">
-          <img src= '/image3.jpg' alt="list-item" />
+          <img src= '/public/image3.jpg' alt="list-item" />
         </div>
         <div className="list-item">
-          <img src= '/image4.jpg' alt="list-item" />
+          <img src= '/public/image4.jpg' alt="list-item" />
         </div>
         <div className="list-item">
-          <img src= '/image5.jpg' alt="list-item" />
+          <img src= '/public/image5.jpg' alt="list-item" />
         </div>
         <div className="list-item">
-          <img src= '/image6.jpg' alt="list-item" />
+          <img src= '/public/image6.jpg' alt="list-item" />
         </div>
         <div className="list-item">
-          <img src= '/image7.jpg' alt="list-item" />
+          <img src= '/public/image7.jpg' alt="list-item" />
         </div>
       </div>
     </div>
